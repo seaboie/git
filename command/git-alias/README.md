@@ -37,7 +37,8 @@ Now:
 ---
 
 ### **3. View All Git Aliases**
-To see all the Git aliases you've set, run:
+To see all the Git aliases you've set, run:  
+[--get-regexp](https://github.com/seaboie/git/new/main/command/git-alias)
 ```bash
 git config --global --get-regexp alias
 ```
